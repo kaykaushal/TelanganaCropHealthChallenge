@@ -1,0 +1,5 @@
+input_channels: 3
+sequence_length: 23
+num_classes: 4
+learning_rate: 0.0008
+weight_decay: 0.0001

@@ -1,0 +1,10 @@
+input_channels: 3
+sequence_length: 23
+num_classes: 4
+filters: 128
+lr: 0.0005345268208112753
+weight_decay: 1.0348108794434793e-06
+dropout: 0.14585298928381432
+optimizer_choice: adamw
+step_size: 14
+gamma: 0.8593737125623485
