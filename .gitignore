@@ -84,3 +84,6 @@ requirements_pre.txt
 ##### Including files #####
 !.rtd-environment.yml
 !.gitignore
+
+lighting_logs/trial*
+checkpoints/trial*
