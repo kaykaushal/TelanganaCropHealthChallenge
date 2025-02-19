@@ -2,15 +2,38 @@
 
 .. _main_title:
 ************************************************************************
-geoai-crop-health-classification
+Telangana Crop Health Challenge
 ************************************************************************
 
-A short description of the project.
+The objective of this project is to build a machine learning model that can classify the health conditions of various crops in the Telangana state of South-Central India using data on cultivation practices along with historical Sentinel-2 time series data. This model will help both farmers and government bodies monitor crop conditions and take proactive measures to mitigate any adverse effects on crop health, and consequently improve crop yield.
 
-**Author**: Kaushal K (`<kaushal.gsds@gmail.com>`_), Harshita Tiwari (`<harshita.tiwari@gmail>`_),`
+# Environment Setup Report
 
-For further information on how to use the scripts of this project,
-got the documentation shown above.
+## Creating Conda and Pip Environment Using `environment.yml`
+
+### 1. Prerequisites
+Before setting up the environment, ensure you have Conda installed. You can download it from:
+- Miniconda: [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+- Anaconda: [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
+
+### 2. Creating the Environment
+To create a Conda environment using the `environment.yml` file, 
+`conda env create -f environment.yml`
+
+### 3. Activating the Environment
+`conda activate geoai`
+
+
+
+
+
+
+
+
+
+**Author**: Kaushal K (`<kaushal.gsds@gmail.com>`_), Harshita Tiwari (`<tiwariharshita97@gmail.com>`_),`
+
+
 
 
 
