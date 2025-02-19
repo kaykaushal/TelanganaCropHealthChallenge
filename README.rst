@@ -7,7 +7,7 @@ geoai-crop-health-classification
 
 A short description of the project.
 
-**Author**: Kaushal K (`Your email address <mailto:Your email address>`_)
+**Author**: Kaushal K (`<kaushal.gsds@gmail.com>`_), Harshita Tiwari (`<harshita.tiwari@gmail>`_),`
 
 For further information on how to use the scripts of this project,
 got the documentation shown above.
